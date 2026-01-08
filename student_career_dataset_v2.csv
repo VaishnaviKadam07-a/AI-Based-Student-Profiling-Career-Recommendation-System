@@ -1,0 +1,501 @@
+CGPA,Coding_Level,ML_Knowledge,Math_Score,Communication,Projects,Interest_AI,Interest_Web,Interest_Core,Research_Interest,Management_Interest,Higher_Ed_Interest,Career_Path,Final_Recommendation
+5.77,3,2,5,2,2,2,4,1,1,3,3,Job,Software Engineer
+8.75,5,1,3,1,4,2,2,4,5,4,2,Job,Software Engineer
+6.91,5,2,1,5,1,2,5,1,5,1,3,Job,Web Developer
+5.27,1,1,1,5,0,4,1,3,3,5,5,Higher Education,MBA
+6.61,4,2,4,5,1,2,5,2,1,5,5,Higher Education,MBA
+9.61,3,1,1,1,5,3,1,2,4,2,3,Job,Software Engineer
+6.96,4,1,1,5,2,5,2,5,4,2,3,Job,AI Engineer
+5.85,1,3,1,1,3,4,4,2,5,4,4,Higher Education,MTech
+5.77,4,1,3,1,4,3,1,1,2,1,3,Job,Software Engineer
+9.25,3,5,5,3,4,5,4,1,4,5,2,Job,Data Scientist
+9.35,3,5,4,1,0,4,5,1,5,5,4,Higher Education,PhD / Research
+6.12,3,4,1,5,3,1,2,2,2,1,1,Job,Software Engineer
+5.91,3,3,1,1,2,2,1,2,3,1,5,Higher Education,MTech
+7.6,3,2,1,5,0,1,5,5,1,2,2,Job,Software Engineer
+5.05,4,5,1,5,0,5,4,1,5,5,4,Higher Education,MBA
+5.87,4,5,4,4,1,5,2,5,3,4,4,Higher Education,MBA
+5.87,1,1,3,4,2,5,4,2,5,2,2,Job,Management Role
+6.13,2,1,2,5,5,1,3,3,5,5,1,Job,Management Role
+6.37,4,5,1,2,4,4,1,3,5,2,3,Job,AI Engineer
+6.96,4,3,4,5,2,5,5,3,5,3,5,Higher Education,PhD / Research
+5.44,2,1,1,1,1,5,5,5,3,4,4,Higher Education,MTech
+8.39,4,4,4,3,3,3,5,3,5,5,3,Job,Web Developer
+6.76,4,1,5,2,2,1,5,3,5,4,3,Job,Web Developer
+8.32,3,5,4,4,0,5,4,1,2,1,4,Higher Education,MS in AI / Data Science
+5.81,3,5,4,2,2,3,3,1,5,2,2,Job,Software Engineer
+7.6,2,5,2,2,4,4,5,5,2,5,2,Job,Software Engineer
+8.18,3,1,4,4,5,2,1,2,5,1,3,Job,Software Engineer
+9.59,3,4,1,1,2,1,3,2,3,2,3,Job,Software Engineer
+5.17,5,1,4,1,4,3,4,2,2,4,5,Higher Education,MTech
+8.41,2,5,5,4,2,1,5,4,5,3,4,Higher Education,PhD / Research
+5.55,3,3,4,2,4,3,2,2,3,5,5,Higher Education,MTech
+8.01,2,2,3,3,1,4,5,1,1,5,5,Higher Education,MTech
+5.66,5,3,2,5,4,3,1,2,2,1,3,Job,Software Engineer
+7.7,3,1,2,1,5,3,3,4,5,3,5,Higher Education,MTech
+7.66,2,4,2,3,5,3,3,3,5,3,4,Higher Education,MTech
+6.87,3,5,5,2,0,5,5,5,4,1,3,Job,Data Scientist
+5.87,4,3,5,1,1,1,3,5,3,1,4,Higher Education,MTech
+5.21,2,3,2,4,1,1,2,2,2,1,1,Job,Management Role
+9.72,3,2,2,4,3,4,2,5,1,3,4,Higher Education,MTech
+6.67,2,4,1,2,1,1,3,5,5,1,3,Job,Software Engineer
+9.04,5,3,4,2,1,4,1,5,4,2,5,Higher Education,PhD / Research
+9.03,5,1,3,4,3,5,5,5,2,3,5,Higher Education,MTech
+9.34,2,1,5,3,0,1,5,4,2,3,5,Higher Education,MTech
+8.56,1,5,2,4,4,3,4,5,2,5,3,Job,Management Role
+5.31,5,2,3,5,0,5,4,5,5,4,4,Higher Education,MBA
+5.55,4,4,5,5,4,2,1,4,4,5,3,Job,Software Engineer
+8.79,5,4,4,3,0,4,5,1,5,1,2,Job,Data Scientist
+5.71,3,1,3,4,3,5,4,2,4,3,3,Job,Software Engineer
+7.15,5,4,1,3,0,2,5,2,5,3,4,Higher Education,MTech
+9.87,1,4,4,4,5,3,1,1,5,4,3,Job,Management Role
+9.19,4,4,3,5,3,2,4,2,4,5,5,Higher Education,MBA
+8.25,4,1,5,5,5,5,3,5,2,2,3,Job,AI Engineer
+5.42,1,3,2,3,4,5,4,5,4,1,1,Job,Software Engineer
+5.32,4,2,2,1,3,2,3,4,4,3,5,Higher Education,MTech
+7.46,2,1,5,3,4,4,5,1,2,5,2,Job,Software Engineer
+5.59,4,3,2,1,0,5,1,4,5,1,1,Job,AI Engineer
+9.86,4,5,4,2,3,2,1,4,1,2,1,Job,Software Engineer
+7.85,4,2,5,3,1,1,2,1,4,1,2,Job,Software Engineer
+5.37,1,4,1,2,5,2,4,3,1,1,2,Job,Software Engineer
+6.96,5,1,5,2,3,5,1,4,4,3,4,Higher Education,PhD / Research
+7.47,4,4,2,1,2,3,5,1,2,5,2,Job,Web Developer
+9.59,1,5,3,4,4,4,1,5,5,5,2,Job,Management Role
+8.78,3,2,2,1,3,3,5,4,3,2,4,Higher Education,MTech
+7.61,5,5,4,2,1,5,3,3,5,1,4,Higher Education,PhD / Research
+9.18,2,3,1,4,3,3,3,5,4,1,1,Job,Management Role
+7.15,2,3,3,5,4,5,5,3,3,3,5,Higher Education,MTech
+9.66,3,4,2,5,3,3,4,5,2,4,4,Higher Education,MBA
+8.7,5,1,3,2,0,1,1,5,1,2,4,Higher Education,MTech
+6.17,5,4,3,4,2,2,1,2,5,4,1,Job,Software Engineer
+6.72,5,3,2,4,1,2,4,2,2,4,1,Job,Web Developer
+6.2,1,2,4,1,4,4,4,2,4,4,5,Higher Education,PhD / Research
+8.96,1,3,3,1,3,3,5,4,2,2,1,Job,Software Engineer
+6.69,5,2,2,2,1,1,5,1,1,4,5,Higher Education,MTech
+8.49,5,3,4,3,4,4,2,4,2,5,5,Higher Education,MTech
+8.84,2,3,5,3,0,3,1,4,5,5,5,Higher Education,PhD / Research
+7.13,3,2,3,3,3,4,5,3,1,5,4,Higher Education,MTech
+6.84,2,4,4,3,2,4,4,5,5,2,1,Job,Data Scientist
+9.96,2,3,5,4,1,1,3,5,1,5,3,Job,Management Role
+5.53,5,2,1,2,0,5,4,2,1,2,5,Higher Education,MTech
+5.39,5,4,3,5,4,1,3,5,5,4,2,Job,Software Engineer
+6.33,2,3,2,5,4,3,1,5,2,1,2,Job,Management Role
+9.89,2,5,1,5,0,1,5,4,3,5,2,Job,Management Role
+5.09,1,4,4,4,4,2,4,4,5,4,3,Job,Management Role
+6.55,1,1,5,4,1,5,1,2,1,4,4,Higher Education,MBA
+7.64,3,1,5,3,0,3,1,3,5,5,4,Higher Education,PhD / Research
+5.06,3,4,3,5,5,4,3,4,4,1,5,Higher Education,MS in AI / Data Science
+6.79,3,4,3,4,2,2,5,4,5,3,5,Higher Education,MTech
+9.13,4,4,1,3,3,4,1,2,1,1,5,Higher Education,MS in AI / Data Science
+6.33,1,1,2,2,3,3,2,4,3,2,4,Higher Education,MTech
+5.29,2,2,4,1,2,1,5,4,3,5,5,Higher Education,MTech
+6.64,4,3,4,2,0,3,1,2,2,2,2,Job,Software Engineer
+6.49,5,2,4,5,2,3,2,2,4,3,3,Job,Software Engineer
+5.63,5,3,4,3,1,3,2,4,1,1,1,Job,Software Engineer
+9.76,1,3,2,1,1,4,3,5,5,5,3,Job,Software Engineer
+7.76,5,2,3,5,0,2,1,4,1,2,5,Higher Education,MTech
+5.42,2,2,1,3,1,2,4,2,1,4,3,Job,Software Engineer
+5.31,1,4,1,1,0,2,3,5,1,3,2,Job,Software Engineer
+9.99,1,3,4,1,5,4,4,4,2,5,2,Job,Software Engineer
+8.79,3,4,2,3,1,5,4,2,2,1,1,Job,Software Engineer
+6.36,3,4,3,5,2,5,2,4,4,5,4,Higher Education,MBA
+8.18,1,3,1,1,2,5,4,2,5,5,2,Job,Software Engineer
+8.19,1,1,4,1,4,1,5,5,4,4,2,Job,Software Engineer
+9.61,4,3,2,3,2,5,1,3,1,4,1,Job,AI Engineer
+6.68,5,4,2,2,4,1,1,1,4,1,5,Higher Education,MTech
+8.77,3,3,1,4,4,3,4,1,4,5,1,Job,Software Engineer
+6.4,5,5,1,1,3,3,4,3,5,2,2,Job,Web Developer
+6.4,4,1,4,1,2,1,3,3,2,1,1,Job,Software Engineer
+5.08,1,2,2,5,2,5,4,3,3,1,5,Higher Education,MTech
+8.63,5,4,5,3,2,4,4,3,5,2,3,Job,Data Scientist
+8.96,5,2,1,2,2,4,1,4,1,1,5,Higher Education,MTech
+6.07,1,5,2,1,5,3,5,1,1,1,3,Job,Software Engineer
+7.01,2,4,5,1,1,3,2,1,3,3,1,Job,Software Engineer
+7.82,4,1,1,4,1,4,4,4,3,5,4,Higher Education,MBA
+8.32,3,4,1,2,1,2,3,3,2,2,3,Job,Software Engineer
+6.6,3,2,2,2,1,2,2,1,5,4,3,Job,Software Engineer
+8.02,4,5,3,4,4,1,1,4,1,3,3,Job,Software Engineer
+8.53,3,1,2,2,4,5,4,2,2,2,2,Job,Software Engineer
+8.9,2,2,4,4,1,1,2,3,4,1,1,Job,Management Role
+9.97,3,1,5,3,0,2,4,5,3,4,5,Higher Education,MTech
+6.78,5,5,4,3,2,4,2,2,3,4,2,Job,Data Scientist
+9.85,2,4,3,1,2,1,2,4,2,4,2,Job,Software Engineer
+6.53,3,4,1,1,1,4,3,3,5,5,3,Job,Software Engineer
+7.66,3,1,1,2,0,1,1,2,4,4,1,Job,Software Engineer
+9.44,2,2,1,3,4,1,3,3,1,4,2,Job,Software Engineer
+7.42,2,5,1,5,1,5,4,2,4,5,3,Job,Management Role
+7.9,4,3,1,1,2,5,4,1,1,1,4,Higher Education,MTech
+8.69,4,1,4,2,2,4,1,3,4,1,1,Job,AI Engineer
+6.59,3,5,2,4,3,3,3,1,4,5,4,Higher Education,MBA
+7.72,2,2,2,3,3,1,5,3,3,2,5,Higher Education,MTech
+7.78,5,3,2,2,4,5,2,1,3,4,3,Job,AI Engineer
+6.13,4,1,4,2,2,5,4,4,4,1,4,Higher Education,PhD / Research
+8.67,3,1,3,4,0,5,1,4,5,5,4,Higher Education,MBA
+5.95,2,4,1,1,2,2,1,5,1,3,1,Job,Software Engineer
+7.58,4,2,4,2,4,4,4,2,4,3,3,Job,AI Engineer
+7.61,2,4,2,1,2,3,5,5,2,1,2,Job,Software Engineer
+5.13,1,3,2,5,4,3,3,2,3,1,2,Job,Management Role
+8.61,4,3,5,4,0,3,3,3,2,4,1,Job,Software Engineer
+5.06,1,4,4,2,5,1,2,5,1,5,2,Job,Software Engineer
+9.32,4,2,2,5,4,2,5,2,2,1,2,Job,Web Developer
+6.09,5,5,3,1,2,4,4,2,4,5,1,Job,AI Engineer
+8.87,5,2,1,1,3,5,1,2,5,3,5,Higher Education,MTech
+6.81,3,2,5,3,4,2,3,3,3,3,3,Job,Software Engineer
+5.72,5,3,3,1,2,1,2,2,4,5,3,Job,Software Engineer
+8.81,2,4,2,4,3,1,3,3,5,2,2,Job,Management Role
+7.23,4,5,5,2,4,3,1,4,4,1,2,Job,Software Engineer
+6.36,3,2,3,4,2,4,2,1,4,1,3,Job,Software Engineer
+8.03,5,5,3,4,4,2,4,2,5,2,1,Job,Web Developer
+7.5,5,5,1,1,4,3,2,4,1,3,2,Job,Software Engineer
+7.78,5,5,4,2,4,4,1,4,5,2,5,Higher Education,PhD / Research
+8.94,2,5,2,4,1,5,4,4,4,1,2,Job,Management Role
+6.01,1,3,3,2,0,4,4,4,2,4,1,Job,Software Engineer
+5.69,1,2,4,3,4,4,2,1,2,3,5,Higher Education,MTech
+5.45,3,3,1,5,1,2,2,1,3,5,4,Higher Education,MBA
+5.06,5,4,2,4,2,5,5,5,2,5,4,Higher Education,MBA
+7.0,3,2,3,3,1,4,4,5,3,3,4,Higher Education,MTech
+8.97,3,5,3,4,5,5,1,3,5,4,3,Job,Software Engineer
+5.73,3,2,4,4,2,3,2,1,2,5,5,Higher Education,MBA
+7.63,3,1,4,3,2,5,1,2,4,4,5,Higher Education,PhD / Research
+5.06,1,5,4,3,3,4,4,5,5,4,1,Job,Data Scientist
+6.42,4,1,2,3,3,3,5,2,4,2,2,Job,Web Developer
+9.84,3,5,3,2,2,2,5,4,2,5,4,Higher Education,MTech
+5.87,2,3,3,3,5,1,2,3,2,4,4,Higher Education,MTech
+6.96,2,3,5,4,0,3,5,3,5,5,5,Higher Education,PhD / Research
+7.51,1,1,3,2,5,1,2,2,4,3,5,Higher Education,MTech
+5.4,2,4,4,2,3,1,5,3,1,5,5,Higher Education,MTech
+8.39,5,3,2,4,3,4,1,5,1,3,3,Job,AI Engineer
+5.63,5,1,3,4,3,2,3,2,1,2,2,Job,Software Engineer
+9.27,2,4,4,1,1,3,5,3,3,1,4,Higher Education,MTech
+7.37,2,5,1,5,2,1,1,5,1,1,2,Job,Management Role
+8.12,3,2,2,4,4,5,4,1,1,5,2,Job,Software Engineer
+5.71,2,1,4,2,0,2,5,4,1,5,3,Job,Software Engineer
+6.12,5,4,5,3,3,1,4,2,3,2,1,Job,Web Developer
+6.87,4,4,5,2,5,5,1,5,5,4,4,Higher Education,PhD / Research
+5.46,2,5,3,3,3,3,1,2,2,2,4,Higher Education,MTech
+5.76,2,5,1,2,0,1,3,3,1,5,2,Job,Software Engineer
+7.45,1,2,5,2,1,1,1,2,2,5,5,Higher Education,MTech
+9.41,3,2,3,3,0,3,5,5,1,4,1,Job,Software Engineer
+7.43,5,4,5,4,1,5,5,2,2,2,2,Job,Data Scientist
+9.14,4,4,2,4,4,1,4,1,2,3,1,Job,Web Developer
+8.1,4,4,2,2,4,4,3,2,1,1,1,Job,AI Engineer
+7.88,2,1,1,3,4,1,2,1,2,1,1,Job,Software Engineer
+9.02,1,5,2,5,4,4,5,5,4,1,4,Higher Education,MS in AI / Data Science
+7.99,4,5,3,1,4,5,1,2,3,3,2,Job,AI Engineer
+7.06,4,5,3,5,3,5,1,5,4,1,4,Higher Education,MS in AI / Data Science
+7.46,3,2,2,4,0,3,2,3,2,1,1,Job,Software Engineer
+7.77,4,1,2,5,0,2,1,5,3,1,2,Job,Software Engineer
+8.8,4,4,5,1,0,4,1,3,2,3,4,Higher Education,MS in AI / Data Science
+9.49,2,5,3,3,4,1,2,1,5,1,4,Higher Education,MTech
+7.4,5,1,1,2,0,3,2,3,1,2,3,Job,Software Engineer
+8.15,3,1,4,4,5,3,3,3,5,2,5,Higher Education,PhD / Research
+6.27,4,1,5,1,1,2,3,2,1,3,3,Job,Software Engineer
+9.51,2,2,1,3,3,2,5,4,3,4,5,Higher Education,MTech
+7.74,3,5,4,1,2,5,1,3,5,4,5,Higher Education,PhD / Research
+8.79,2,3,2,5,2,2,2,2,1,3,1,Job,Management Role
+9.25,4,3,1,4,1,3,5,5,2,1,3,Job,Web Developer
+5.02,2,2,4,5,2,1,3,3,1,4,5,Higher Education,MBA
+7.88,4,1,1,5,4,3,2,1,3,1,3,Job,Software Engineer
+7.44,5,5,2,3,3,3,5,2,2,3,3,Job,Web Developer
+5.36,2,4,1,2,3,1,4,5,1,5,1,Job,Software Engineer
+5.98,5,3,4,3,1,1,3,3,5,3,1,Job,Software Engineer
+9.53,5,2,5,3,4,3,3,1,1,1,3,Job,Software Engineer
+9.78,4,1,4,4,0,4,5,2,5,2,1,Job,AI Engineer
+5.93,4,5,2,1,4,4,2,1,1,4,1,Job,AI Engineer
+6.35,5,5,4,3,4,3,5,2,1,1,1,Job,Web Developer
+6.53,5,1,4,2,0,4,2,1,3,1,2,Job,AI Engineer
+5.79,3,3,5,2,0,1,5,3,4,3,3,Job,Software Engineer
+7.04,3,3,5,2,1,2,1,2,1,4,3,Job,Software Engineer
+5.86,1,3,3,5,1,4,3,3,2,5,4,Higher Education,MBA
+7.56,3,4,4,1,3,5,3,4,1,1,1,Job,Data Scientist
+8.57,5,4,2,4,5,3,4,1,5,4,4,Higher Education,MBA
+7.29,5,2,3,3,4,4,3,3,2,2,4,Higher Education,MTech
+5.74,4,3,5,1,3,5,1,4,5,5,4,Higher Education,PhD / Research
+9.01,2,4,5,5,0,3,3,1,5,5,3,Job,Management Role
+5.5,2,1,1,1,1,5,5,5,2,5,2,Job,Software Engineer
+9.8,3,5,5,4,3,2,3,5,1,5,2,Job,Software Engineer
+7.6,2,1,2,3,1,4,3,3,5,4,1,Job,Software Engineer
+5.03,1,1,5,2,5,3,1,5,2,3,4,Higher Education,MTech
+8.19,4,4,1,2,0,5,2,5,4,2,3,Job,AI Engineer
+10.0,4,2,3,4,1,5,1,1,5,1,2,Job,AI Engineer
+9.75,4,5,5,3,3,3,1,3,5,5,3,Job,Software Engineer
+8.84,3,2,1,2,2,5,4,1,5,4,1,Job,Software Engineer
+6.36,1,5,3,2,3,4,5,1,5,3,2,Job,Software Engineer
+6.64,2,2,2,3,2,1,3,1,3,2,3,Job,Software Engineer
+9.31,2,4,1,3,2,5,1,4,4,5,2,Job,Software Engineer
+5.72,3,2,4,3,0,4,2,4,2,4,3,Job,Software Engineer
+6.57,5,2,2,3,0,1,2,2,2,4,4,Higher Education,MTech
+7.64,1,5,3,2,3,5,4,5,1,1,5,Higher Education,MS in AI / Data Science
+8.41,5,5,3,1,5,2,5,4,5,1,4,Higher Education,MTech
+6.25,1,1,3,4,2,1,2,3,2,3,3,Job,Management Role
+9.65,5,4,3,1,5,3,3,5,4,5,4,Higher Education,MTech
+7.78,1,4,5,1,3,1,2,1,3,4,4,Higher Education,MTech
+6.39,3,2,4,1,1,2,2,1,3,1,1,Job,Software Engineer
+9.28,3,1,3,4,5,2,5,3,3,1,2,Job,Software Engineer
+7.33,1,1,2,4,0,5,2,2,3,4,5,Higher Education,MBA
+8.53,3,4,4,4,0,5,2,5,1,1,4,Higher Education,MS in AI / Data Science
+9.79,4,5,1,5,0,2,1,3,4,1,5,Higher Education,MTech
+5.24,5,4,1,3,5,3,2,3,4,4,4,Higher Education,MTech
+5.11,3,2,3,2,0,1,3,4,1,2,5,Higher Education,MTech
+8.95,4,5,2,2,0,1,5,5,3,4,1,Job,Web Developer
+8.69,3,5,4,3,1,3,2,4,3,1,2,Job,Software Engineer
+9.73,1,4,5,1,1,1,4,5,2,1,1,Job,Software Engineer
+9.58,3,3,1,3,5,5,5,2,1,5,5,Higher Education,MTech
+7.44,2,1,5,4,2,2,5,3,3,5,5,Higher Education,MBA
+8.06,4,1,4,2,1,1,5,2,1,3,1,Job,Web Developer
+7.24,4,2,4,2,0,4,5,4,5,1,3,Job,AI Engineer
+7.81,1,3,5,4,5,1,3,5,4,5,2,Job,Management Role
+5.34,1,5,4,2,5,3,5,3,4,5,5,Higher Education,PhD / Research
+9.44,1,4,1,1,3,1,2,3,1,1,5,Higher Education,MTech
+7.88,2,4,5,3,5,3,2,3,2,2,2,Job,Software Engineer
+7.94,4,2,4,4,5,1,2,3,1,2,2,Job,Software Engineer
+5.74,5,5,1,4,0,1,2,5,5,5,5,Higher Education,MBA
+5.16,1,3,5,3,3,5,3,5,5,2,2,Job,Software Engineer
+7.41,2,2,2,2,3,4,4,5,2,4,2,Job,Software Engineer
+9.89,3,4,5,1,3,1,4,2,3,5,4,Higher Education,MTech
+9.2,2,4,3,2,5,3,4,4,2,4,5,Higher Education,MTech
+8.91,5,5,5,3,3,3,3,1,5,1,3,Job,Software Engineer
+5.59,3,4,1,2,4,4,3,3,4,3,2,Job,Software Engineer
+9.32,4,1,4,5,3,2,1,1,5,2,5,Higher Education,PhD / Research
+6.42,5,4,1,4,3,1,1,2,3,3,1,Job,Software Engineer
+6.76,5,3,1,4,5,1,2,2,1,5,1,Job,Software Engineer
+5.47,4,3,4,5,1,1,2,1,4,5,5,Higher Education,PhD / Research
+9.67,5,2,5,2,5,1,4,5,2,2,3,Job,Web Developer
+7.78,2,5,5,1,0,5,3,2,3,2,5,Higher Education,MS in AI / Data Science
+7.65,5,1,1,5,2,5,1,2,1,3,4,Higher Education,MTech
+5.47,4,1,2,2,3,1,5,5,4,5,4,Higher Education,MTech
+8.26,4,3,3,3,2,4,1,3,3,2,3,Job,AI Engineer
+7.18,5,2,1,4,5,2,2,2,4,2,2,Job,Software Engineer
+5.24,4,5,4,4,4,1,1,2,1,3,2,Job,Software Engineer
+6.58,3,2,2,4,1,4,3,1,3,1,4,Higher Education,MTech
+9.22,5,4,5,1,5,4,4,3,3,4,1,Job,Data Scientist
+5.53,5,5,5,4,5,2,4,3,4,4,1,Job,Web Developer
+9.93,3,5,5,3,1,1,1,4,1,4,5,Higher Education,MTech
+7.75,3,1,3,4,2,5,1,2,2,4,4,Higher Education,MBA
+9.95,1,5,4,4,3,1,4,4,2,4,3,Job,Management Role
+8.07,4,2,1,5,0,4,2,4,5,5,2,Job,AI Engineer
+8.12,5,5,5,5,5,3,1,4,4,5,1,Job,Software Engineer
+9.79,2,2,3,1,0,3,3,5,3,4,5,Higher Education,MTech
+9.43,2,2,2,2,4,4,3,5,3,4,3,Job,Software Engineer
+7.11,1,1,2,4,5,2,2,3,2,3,3,Job,Management Role
+6.46,3,1,4,2,4,1,5,5,4,1,5,Higher Education,PhD / Research
+8.53,4,1,5,2,2,5,2,3,1,4,4,Higher Education,MTech
+9.69,5,3,1,4,4,3,1,3,2,2,1,Job,Software Engineer
+6.61,1,4,1,1,5,2,3,3,2,5,2,Job,Software Engineer
+7.88,2,3,4,4,3,5,3,4,5,2,4,Higher Education,PhD / Research
+5.96,2,4,2,4,4,4,5,4,2,3,3,Job,Management Role
+9.93,5,3,4,5,2,3,2,1,2,5,3,Job,Software Engineer
+7.74,3,1,1,3,2,3,1,1,1,1,4,Higher Education,MTech
+6.53,1,1,1,2,3,3,5,2,4,5,1,Job,Software Engineer
+6.21,5,2,3,3,0,4,5,3,3,5,1,Job,AI Engineer
+9.82,5,5,3,4,4,5,4,2,4,4,4,Higher Education,MBA
+9.15,4,3,4,3,4,1,4,1,4,4,5,Higher Education,PhD / Research
+8.02,1,4,2,3,1,1,3,2,3,3,2,Job,Software Engineer
+5.71,1,3,5,5,4,3,3,3,1,3,3,Job,Management Role
+8.97,1,4,1,3,2,2,3,1,5,2,5,Higher Education,MTech
+5.19,3,1,3,4,5,1,3,5,1,2,4,Higher Education,MTech
+6.45,2,3,5,5,5,4,5,2,3,4,1,Job,Management Role
+5.79,4,4,2,3,3,1,2,3,3,2,5,Higher Education,MTech
+6.29,2,4,1,4,2,4,1,3,2,2,2,Job,Management Role
+7.59,4,5,1,5,5,1,1,3,1,3,2,Job,Software Engineer
+7.65,5,3,1,3,5,1,5,5,5,1,1,Job,Web Developer
+6.8,2,2,1,2,4,3,1,2,5,5,1,Job,Software Engineer
+7.73,1,4,5,4,0,2,1,1,3,3,4,Higher Education,MTech
+5.72,5,1,1,4,1,4,5,3,2,3,5,Higher Education,MTech
+8.77,4,3,4,5,3,1,1,2,3,4,4,Higher Education,MBA
+6.26,5,2,1,1,5,4,3,4,4,4,5,Higher Education,MTech
+5.78,4,5,4,5,3,4,3,4,4,2,4,Higher Education,PhD / Research
+10.0,5,5,4,2,1,2,5,3,5,1,4,Higher Education,PhD / Research
+9.5,1,1,1,3,5,3,1,3,4,2,4,Higher Education,MTech
+5.28,3,3,5,1,3,2,5,4,3,5,2,Job,Software Engineer
+7.93,4,1,1,2,2,4,5,1,3,2,1,Job,AI Engineer
+8.21,1,5,5,5,3,4,1,2,5,5,1,Job,Data Scientist
+7.21,5,2,3,1,5,2,4,3,2,3,2,Job,Web Developer
+5.84,3,1,3,3,0,2,5,4,2,1,4,Higher Education,MTech
+5.6,3,5,4,3,2,2,5,1,5,3,3,Job,Software Engineer
+9.04,3,3,3,5,0,5,3,1,5,5,3,Job,Software Engineer
+7.84,5,1,1,3,3,1,2,2,2,2,2,Job,Software Engineer
+7.15,3,1,1,1,1,3,4,5,5,5,1,Job,Software Engineer
+8.25,2,3,4,4,4,2,1,1,5,2,3,Job,Management Role
+6.0,5,2,1,2,4,3,2,1,1,3,5,Higher Education,MTech
+7.85,2,1,5,2,3,1,1,4,5,3,2,Job,Software Engineer
+8.64,4,2,2,1,4,1,1,4,3,5,3,Job,Software Engineer
+8.74,2,4,2,3,3,3,3,1,1,5,1,Job,Software Engineer
+5.07,2,2,5,3,5,4,2,5,2,2,3,Job,Software Engineer
+9.39,5,5,1,5,3,3,3,5,5,3,1,Job,Software Engineer
+5.83,3,2,3,2,4,5,3,5,5,1,5,Higher Education,MTech
+9.19,3,5,3,3,3,3,3,1,5,1,1,Job,Software Engineer
+9.23,3,1,2,3,5,4,2,2,4,3,3,Job,Software Engineer
+5.38,1,5,1,2,4,2,4,2,4,5,4,Higher Education,MTech
+5.34,5,1,1,4,2,4,4,1,5,5,3,Job,AI Engineer
+9.96,5,1,1,5,2,2,3,3,3,4,2,Job,Software Engineer
+6.16,2,2,4,4,1,2,2,2,1,2,5,Higher Education,MTech
+7.71,4,3,2,5,1,4,2,1,5,4,4,Higher Education,MBA
+7.6,1,3,4,5,2,2,4,2,5,2,3,Job,Management Role
+8.02,4,4,2,5,3,1,4,3,2,5,5,Higher Education,MBA
+8.35,3,2,4,5,3,4,2,5,5,3,4,Higher Education,PhD / Research
+7.6,3,3,1,2,0,5,5,5,2,4,1,Job,Software Engineer
+8.77,1,1,2,3,0,2,4,5,2,1,3,Job,Software Engineer
+9.95,3,4,4,3,2,2,3,5,5,1,2,Job,Software Engineer
+5.79,4,1,2,2,5,3,5,5,5,4,2,Job,Web Developer
+6.52,1,1,4,4,1,4,3,4,5,3,4,Higher Education,PhD / Research
+5.66,4,4,5,4,1,4,5,5,1,2,2,Job,Data Scientist
+5.01,1,5,4,4,3,4,4,5,5,5,3,Job,Data Scientist
+7.26,2,3,5,4,5,1,4,2,5,3,5,Higher Education,PhD / Research
+5.34,3,1,5,5,4,4,1,2,3,4,4,Higher Education,MBA
+9.54,3,3,1,4,3,2,5,5,2,2,4,Higher Education,MTech
+8.74,2,3,2,4,1,1,3,5,1,2,1,Job,Management Role
+9.43,1,4,4,3,0,2,3,1,1,3,4,Higher Education,MTech
+8.21,3,4,4,1,0,2,1,2,4,2,2,Job,Software Engineer
+7.2,3,3,5,2,1,1,1,5,3,1,1,Job,Software Engineer
+7.49,1,2,3,2,0,5,1,1,5,3,1,Job,Software Engineer
+7.89,3,1,5,5,3,1,1,5,4,4,5,Higher Education,PhD / Research
+5.23,3,2,2,2,1,4,5,2,3,4,4,Higher Education,MTech
+5.64,3,5,2,5,5,5,5,2,1,5,2,Job,Software Engineer
+8.91,5,4,3,3,0,2,2,4,1,5,4,Higher Education,MTech
+7.83,1,2,3,5,1,5,1,3,4,3,2,Job,Management Role
+5.62,4,4,1,5,5,5,2,4,4,4,1,Job,AI Engineer
+7.8,1,1,1,3,5,5,1,1,1,4,4,Higher Education,MTech
+9.82,3,2,2,2,1,5,2,3,5,2,1,Job,Software Engineer
+8.15,4,4,1,2,4,5,2,2,5,3,4,Higher Education,MS in AI / Data Science
+5.53,5,1,1,2,3,1,5,3,2,1,4,Higher Education,MTech
+5.38,5,4,1,1,0,1,3,5,2,5,4,Higher Education,MTech
+8.84,1,4,3,3,2,3,2,4,5,4,1,Job,Software Engineer
+9.03,1,5,3,4,5,4,5,4,4,2,1,Job,Management Role
+5.02,4,4,4,2,5,1,5,1,3,4,3,Job,Web Developer
+9.29,3,5,1,1,3,2,5,5,2,1,1,Job,Software Engineer
+8.4,3,2,3,1,1,2,2,4,3,4,1,Job,Software Engineer
+9.22,5,2,5,1,2,1,1,4,3,3,1,Job,Software Engineer
+8.69,2,2,3,3,4,3,1,1,2,4,2,Job,Software Engineer
+5.24,4,3,3,4,4,5,2,4,5,2,3,Job,AI Engineer
+7.45,2,4,2,3,2,3,5,1,4,2,3,Job,Software Engineer
+9.63,4,3,4,5,3,4,1,2,3,1,1,Job,AI Engineer
+5.86,4,2,2,4,3,1,3,3,2,1,1,Job,Software Engineer
+8.07,4,3,5,4,4,2,2,1,3,3,5,Higher Education,MTech
+8.36,2,5,3,5,3,3,5,1,5,3,2,Job,Management Role
+9.09,3,2,1,3,3,3,3,2,3,5,3,Job,Software Engineer
+7.67,1,5,1,5,0,5,3,1,5,5,1,Job,Management Role
+7.62,2,4,3,1,0,2,1,2,1,5,2,Job,Software Engineer
+9.88,1,2,2,2,4,1,5,4,5,1,3,Job,Software Engineer
+8.92,1,5,2,3,2,4,5,3,5,1,2,Job,Software Engineer
+5.12,3,2,3,4,3,4,2,5,3,5,3,Job,Software Engineer
+6.12,4,5,5,4,3,1,1,1,5,2,4,Higher Education,PhD / Research
+6.35,5,4,4,3,3,4,1,2,2,1,1,Job,Data Scientist
+6.49,1,1,2,2,0,2,5,2,3,5,2,Job,Software Engineer
+6.99,4,4,3,5,1,4,4,2,3,5,2,Job,AI Engineer
+9.58,3,2,5,4,5,5,4,5,1,2,4,Higher Education,MTech
+6.54,5,3,5,4,1,3,1,2,5,3,2,Job,Software Engineer
+5.54,1,1,1,4,2,3,1,2,4,4,3,Job,Management Role
+9.99,5,4,5,3,1,1,5,3,3,2,3,Job,Web Developer
+9.76,2,3,1,5,3,4,4,4,5,3,3,Job,Management Role
+9.3,1,2,5,3,1,5,5,4,4,2,4,Higher Education,PhD / Research
+5.08,3,3,4,2,2,4,5,1,4,4,4,Higher Education,PhD / Research
+8.88,1,2,4,1,3,1,4,3,3,4,2,Job,Software Engineer
+7.78,5,2,3,4,3,5,3,2,2,2,1,Job,AI Engineer
+6.14,2,3,4,4,3,5,4,2,3,2,5,Higher Education,MTech
+6.03,3,4,2,5,1,3,1,5,4,5,4,Higher Education,MBA
+8.26,4,4,3,3,5,2,3,3,1,1,4,Higher Education,MTech
+9.08,5,3,2,1,1,2,4,3,5,5,4,Higher Education,MTech
+5.99,4,5,3,1,3,1,4,2,4,1,1,Job,Web Developer
+6.4,2,3,4,2,3,4,4,5,3,1,1,Job,Software Engineer
+6.95,3,5,5,1,5,5,5,5,5,2,5,Higher Education,PhD / Research
+9.28,2,1,5,5,1,5,1,4,3,3,4,Higher Education,MTech
+5.87,2,5,2,4,2,1,5,2,4,5,1,Job,Management Role
+8.26,5,2,1,5,0,5,1,3,1,1,4,Higher Education,MTech
+6.03,4,1,2,5,1,5,1,2,1,3,5,Higher Education,MTech
+5.71,1,1,3,5,4,4,4,1,3,2,1,Job,Management Role
+9.23,2,1,2,4,1,1,4,2,3,2,4,Higher Education,MTech
+6.72,3,5,1,3,0,2,2,3,1,5,1,Job,Software Engineer
+5.26,1,1,2,5,4,2,5,2,5,2,1,Job,Management Role
+6.73,5,2,2,1,1,5,2,5,2,1,3,Job,AI Engineer
+7.77,2,4,1,5,3,5,4,4,2,2,3,Job,Management Role
+7.34,5,4,3,3,0,4,2,2,5,5,4,Higher Education,MS in AI / Data Science
+8.04,3,3,4,4,5,4,5,1,2,1,1,Job,Software Engineer
+7.65,2,4,2,2,2,5,2,3,3,3,2,Job,Software Engineer
+8.41,5,2,4,1,1,1,3,2,1,2,1,Job,Software Engineer
+9.15,5,5,4,4,5,4,2,1,2,3,4,Higher Education,MS in AI / Data Science
+7.98,4,4,2,2,2,4,1,5,3,3,3,Job,AI Engineer
+7.43,4,5,1,5,5,3,2,4,5,2,1,Job,Software Engineer
+6.2,1,4,4,3,3,2,3,4,5,5,2,Job,Software Engineer
+5.47,3,2,1,4,1,4,4,4,2,1,1,Job,Software Engineer
+5.74,1,2,5,3,2,2,1,3,5,1,1,Job,Software Engineer
+6.08,2,1,4,5,1,5,5,3,4,3,5,Higher Education,PhD / Research
+8.05,1,3,4,2,1,5,1,4,4,1,3,Job,Software Engineer
+6.25,2,4,2,2,4,4,1,5,3,5,5,Higher Education,MS in AI / Data Science
+6.06,3,3,3,4,0,4,5,1,5,1,5,Higher Education,MTech
+5.84,3,4,3,5,5,5,1,2,1,4,2,Job,Software Engineer
+5.72,3,5,3,3,5,1,1,2,3,5,1,Job,Software Engineer
+6.53,2,1,5,4,4,1,2,1,1,5,1,Job,Management Role
+8.69,5,5,1,3,5,4,5,5,5,2,5,Higher Education,MS in AI / Data Science
+6.4,5,5,4,2,0,3,5,3,5,5,5,Higher Education,PhD / Research
+7.88,4,5,4,3,3,2,2,5,4,3,5,Higher Education,PhD / Research
+8.63,5,3,2,1,1,4,5,2,3,5,2,Job,AI Engineer
+7.63,1,5,3,3,1,3,3,4,4,4,1,Job,Software Engineer
+9.41,3,1,5,5,5,1,2,1,3,4,1,Job,Software Engineer
+9.68,4,3,3,4,3,3,4,4,5,2,5,Higher Education,MTech
+7.47,2,5,2,5,2,2,4,1,1,1,5,Higher Education,MTech
+9.61,2,5,2,2,2,2,4,5,1,4,5,Higher Education,MTech
+6.19,5,2,1,1,3,4,2,3,3,5,3,Job,AI Engineer
+9.28,4,4,5,5,2,3,1,4,2,3,5,Higher Education,MTech
+5.68,2,3,5,2,4,1,2,4,2,4,4,Higher Education,MTech
+7.35,3,5,5,2,0,1,4,3,4,2,1,Job,Software Engineer
+5.5,1,2,5,1,4,1,4,5,2,5,3,Job,Software Engineer
+6.01,3,3,1,1,1,5,2,4,1,1,2,Job,Software Engineer
+8.33,5,3,2,3,0,4,1,2,4,5,1,Job,AI Engineer
+8.44,4,2,4,4,1,4,4,1,3,5,4,Higher Education,MBA
+9.57,3,5,4,5,3,1,2,3,3,1,4,Higher Education,MTech
+5.34,1,2,3,5,4,5,4,2,5,3,2,Job,Management Role
+8.27,1,2,1,4,0,4,2,2,3,4,4,Higher Education,MBA
+6.18,4,5,5,5,4,1,5,3,2,3,4,Higher Education,MTech
+8.96,2,2,4,4,0,2,3,4,1,3,5,Higher Education,MTech
+8.2,3,4,4,3,5,3,4,4,3,4,1,Job,Software Engineer
+9.27,4,5,5,4,5,3,5,4,3,2,5,Higher Education,MTech
+6.36,4,1,2,2,5,2,4,5,2,2,2,Job,Web Developer
+5.53,2,4,5,4,3,1,3,5,5,4,2,Job,Management Role
+6.3,2,1,4,2,1,2,3,4,1,4,1,Job,Software Engineer
+6.33,1,2,3,3,2,3,2,3,4,2,1,Job,Software Engineer
+9.7,1,2,4,5,2,5,1,2,4,5,1,Job,Management Role
+5.37,3,2,4,1,4,5,2,2,4,4,4,Higher Education,PhD / Research
+7.53,2,5,5,2,1,2,4,1,4,5,4,Higher Education,PhD / Research
+8.47,2,2,5,3,3,3,2,5,2,3,3,Job,Software Engineer
+9.57,1,5,5,5,2,5,3,5,2,5,1,Job,Data Scientist
+8.53,4,4,4,1,3,4,4,5,3,3,2,Job,Data Scientist
+6.1,3,2,5,5,4,3,1,5,3,5,4,Higher Education,MBA
+5.29,5,2,4,4,0,4,2,1,5,1,5,Higher Education,PhD / Research
+7.39,2,5,1,3,1,4,1,4,2,4,5,Higher Education,MS in AI / Data Science
+7.53,5,1,5,1,3,2,3,4,4,3,4,Higher Education,PhD / Research
+7.35,1,3,5,4,4,1,1,3,3,2,5,Higher Education,MTech
+9.62,5,3,5,3,1,3,1,4,3,1,2,Job,Software Engineer
+9.2,2,4,3,2,1,1,5,2,4,4,2,Job,Software Engineer
+9.35,3,3,2,2,0,4,1,4,5,3,2,Job,Software Engineer
+6.52,1,1,5,2,2,2,1,5,5,3,4,Higher Education,PhD / Research
+5.02,4,2,1,3,5,3,1,4,2,1,5,Higher Education,MTech
+9.49,2,1,1,1,1,4,1,3,4,4,5,Higher Education,MTech
+6.73,4,1,1,4,0,1,2,2,5,5,1,Job,Software Engineer
+6.33,1,3,3,4,5,5,3,2,3,1,3,Job,Management Role
+7.29,5,1,5,2,1,2,2,3,3,3,5,Higher Education,MTech
+7.12,5,3,2,2,4,3,4,1,3,1,1,Job,Web Developer
+6.22,1,2,5,3,4,5,5,2,2,1,4,Higher Education,MTech
+8.01,3,4,5,3,5,1,5,4,1,3,4,Higher Education,MTech
+8.99,5,4,5,2,2,3,1,5,4,1,1,Job,Software Engineer
+8.57,4,1,4,2,1,1,2,4,3,2,4,Higher Education,MTech
+6.21,1,2,1,4,2,2,4,1,3,2,5,Higher Education,MTech
+7.11,2,3,2,3,3,2,2,3,4,2,5,Higher Education,MTech
+9.86,5,3,1,1,4,2,3,2,5,4,2,Job,Software Engineer
+8.47,1,5,5,1,0,4,3,4,5,1,4,Higher Education,PhD / Research
+6.67,2,2,2,4,5,1,1,3,4,1,3,Job,Management Role
+6.74,1,5,5,3,4,3,3,4,1,3,5,Higher Education,MTech
+8.69,5,1,4,5,0,1,1,5,4,1,5,Higher Education,PhD / Research
+5.47,4,4,5,5,5,4,3,3,3,1,5,Higher Education,MS in AI / Data Science
+5.72,3,3,4,1,1,3,4,2,4,3,4,Higher Education,PhD / Research
+7.12,2,1,1,2,2,5,2,2,5,2,1,Job,Software Engineer
+7.01,2,5,5,1,0,1,5,2,5,4,4,Higher Education,PhD / Research
+6.71,5,2,5,5,5,4,5,1,3,5,2,Job,AI Engineer
+7.46,4,1,2,4,5,2,1,1,5,3,1,Job,Software Engineer
+9.16,2,4,3,4,4,2,4,4,3,5,4,Higher Education,MBA
+5.9,2,2,2,4,4,5,1,1,4,1,4,Higher Education,MTech
+5.54,4,2,4,1,4,1,4,3,2,2,4,Higher Education,MTech
+8.23,4,2,2,4,2,2,2,3,5,3,4,Higher Education,MTech
+5.65,5,2,3,3,2,2,2,5,1,3,3,Job,Software Engineer
+7.5,1,1,4,5,2,2,1,2,3,2,3,Job,Management Role
+7.29,3,3,4,1,3,2,5,2,5,1,5,Higher Education,PhD / Research
